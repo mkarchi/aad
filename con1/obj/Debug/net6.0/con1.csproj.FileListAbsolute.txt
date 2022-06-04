@@ -1,0 +1,17 @@
+C:\prj\aad\con1\bin\Debug\net6.0\con1.exe
+C:\prj\aad\con1\bin\Debug\net6.0\con1.deps.json
+C:\prj\aad\con1\bin\Debug\net6.0\con1.runtimeconfig.json
+C:\prj\aad\con1\bin\Debug\net6.0\con1.dll
+C:\prj\aad\con1\bin\Debug\net6.0\con1.pdb
+C:\prj\aad\con1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\prj\aad\con1\obj\Debug\net6.0\con1.csproj.AssemblyReference.cache
+C:\prj\aad\con1\obj\Debug\net6.0\con1.GeneratedMSBuildEditorConfig.editorconfig
+C:\prj\aad\con1\obj\Debug\net6.0\con1.AssemblyInfoInputs.cache
+C:\prj\aad\con1\obj\Debug\net6.0\con1.AssemblyInfo.cs
+C:\prj\aad\con1\obj\Debug\net6.0\con1.csproj.CoreCompileInputs.cache
+C:\prj\aad\con1\obj\Debug\net6.0\con1.csproj.CopyComplete
+C:\prj\aad\con1\obj\Debug\net6.0\con1.dll
+C:\prj\aad\con1\obj\Debug\net6.0\refint\con1.dll
+C:\prj\aad\con1\obj\Debug\net6.0\con1.pdb
+C:\prj\aad\con1\obj\Debug\net6.0\con1.genruntimeconfig.cache
+C:\prj\aad\con1\obj\Debug\net6.0\ref\con1.dll

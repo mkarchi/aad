@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ub/4IviFF4uI7CoHd5rV8Zj04XAQ9BAW9ty9/AfEB7R1JA2rMGASOi6/rMFlKkP1g1j4OV7jsl7XJv1v9lB4Og==",
+  "success": true,
+  "projectFilePath": "C:\\prj\\aad\\con1\\con1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MukeshKumarSharma\\.nuget\\packages\\microsoft.identity.client\\4.44.0\\microsoft.identity.client.4.44.0.nupkg.sha512"
+  ],
+  "logs": []
+}
